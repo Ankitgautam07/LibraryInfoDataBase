@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>mainpage.qml</file>
+        <file>submit.qml</file>
+        <file>view.qml</file>
+        <file>delete.qml</file>
+    </qresource>
+</RCC>
